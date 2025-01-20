@@ -23,6 +23,9 @@
 			]
 		},
 		{
+			"Name": "GameplayAbilities",
+    },
+    {
 			"Name": "FieldSystemPlugin",
 			"Enabled": true
 		},
